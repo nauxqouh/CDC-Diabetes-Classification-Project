@@ -1,6 +1,15 @@
-# CDC Diabetes Health Indicator
+# 👨‍⚕️🏥 CDC Diabetes Health Indicator
 
 This repository contains demonstrating code for the report of the project `CDC Diabetes Health Indicator` in Statistical Processing for Data Science coursework.
+
+Members for this group project:
+1. Ba Truong Binh
+2. Giao Chiem Huynh
+3. Han Nguyen Ngoc Bao
+4. Huong Nguyen Thi Xuan
+5. Linh Phan Thi Ngoc
+6. Thu Ho Tran Anh
+
 
 ## Handling Imbalanced Data Result based on Multinominal Logistic Regression
 
@@ -16,6 +25,7 @@ This repository contains demonstrating code for the report of the project `CDC D
 | Under Sampling + Over Sampling   | 0.5158387 | 0.2737581 | 0.1339996 |
 
 The method that our team select is **Combined Data** (Undersampling + SMOTE).
+
 
 ## Multi-Classification with top 10 features Result
 
@@ -56,6 +66,7 @@ The model that best explains is Random Forest with Combined Data.
 ## [1] 0.466901
 ```
 
+
 ## Multi-Classification with only Health Indicators Result
 
 health_indicators
@@ -68,6 +79,7 @@ gen_hlth + high_bp + bmi + diff_walk + high_chol + heart_diseaseor_attack + phys
 |---------------------------------|----------|----------|----------|
 | Multinomial Logistic Regression | 0.5057595 | 0.2586393 | 0.1252183 |
 | **Random Forest**                   | **0.7760979** | **0.6641469** | **0.4704440** |
+
 
 ## Binary-Classification for Non-diabete or Diabete Result
 
