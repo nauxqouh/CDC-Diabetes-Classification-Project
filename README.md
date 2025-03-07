@@ -1,6 +1,6 @@
 # 👨‍⚕️🏥 CDC Diabetes Health Indicator
 
-This repository contains demonstrating code for the report of the project `CDC Diabetes Health Indicator` in Statistical Processing for Data Science coursework.
+This repository contains demonstrating code for the report of the project `CDC Diabetes Health Indicator` in Statistical Processing for Data Science coursework. (You can find it in the .html file)
 
 Members for this group project:
 1. Ba Truong Binh
