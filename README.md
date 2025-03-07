@@ -23,7 +23,7 @@ Follow link for more information: https://www.kaggle.com/datasets/alexteboul/dia
 
 Variable lookup list at https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
 
-Here, we used the `diabetes _ 012 _ health _ indicators _ BRFSS2015.csv` dataset.
+_Here, we used the `diabetes _ 012 _ health _ indicators _ BRFSS2015.csv` dataset._
 
 ## Handling Imbalanced Data Result based on Multinominal Logistic Regression
 
