@@ -6,6 +6,7 @@ This repository contains demonstrating code for the report of the project `CDC D
 
 Members for this group project:
 
+|---|-----|
 |1 | Ba Truong Binh|
 |2 | Giao Chiem Huynh |
 |3 | Han Nguyen Ngoc Bao |
