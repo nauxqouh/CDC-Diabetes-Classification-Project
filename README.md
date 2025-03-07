@@ -5,12 +5,13 @@ This repository contains demonstrating code for the report of the project `CDC D
 (You can find it in the .html file which exported from R markdown)
 
 Members for this group project:
-1. Ba Truong Binh
-2. Giao Chiem Huynh
-3. Han Nguyen Ngoc Bao
-4. Huong Nguyen Thi Xuan
-5. Linh Phan Thi Ngoc
-6. Thu Ho Tran Anh
+
+|1 | Ba Truong Binh|
+|2 | Giao Chiem Huynh |
+|3 | Han Nguyen Ngoc Bao |
+|4 | Huong Nguyen Thi Xuan |
+|5 | Linh Phan Thi Ngoc |
+|6 | Thu Ho Tran Anh |
 
 ## About Data
 The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. Each year, the survey collects responses from over 400,000 Americans on health-related risk behaviors, chronic health conditions, and the use of preventative services. It has been conducted every year since 1984. For this project, a csv of the dataset available on Kaggle for the year 2015 was used. This original dataset contains responses from 441,455 individuals and has 330 features. These features are either questions directly asked of participants, or calculated variables based on individual participant responses.
