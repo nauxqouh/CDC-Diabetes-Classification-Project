@@ -2,8 +2,6 @@
 
 This repository contains demonstrating code for the report of the project `CDC Diabetes Health Indicator` in Statistical Processing for Data Science coursework. 
 
-(You can find it in the .html file which exported from R markdown)
-
 Members for this group project:
 
 | | |
@@ -109,4 +107,6 @@ gen_hlth + high_bp + bmi + diff_walk + high_chol + heart_diseaseor_attack + phys
 | Naive Bayes         | 0.7947 | <img width="688" alt="Screen Shot 2025-03-07 at 15 49 51" src="https://github.com/user-attachments/assets/c38eb1f3-7c6b-4aae-8e86-6ed2dcb1c415" /> |
 
 The Logistic Regression model has an AUC index of 0.81, which shows that the model's ability to distinguish between classes is quite good and reliable.
+
+_(You can find code in the .html file which exported from R markdown)_
 
