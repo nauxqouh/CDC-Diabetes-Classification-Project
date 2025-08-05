@@ -2,17 +2,6 @@
 
 This repository contains demonstrating code for the report of the project `CDC Diabetes Health Indicator` in Statistical Processing for Data Science coursework. 
 
-Members for this group project:
-
-| | |
-|---|-----|
-|1 | Ba Truong Binh|
-|2 | Giao Chiem Huynh |
-|3 | Han Nguyen Ngoc Bao |
-|4 | Huong Nguyen Thi Xuan |
-|5 | Linh Phan Thi Ngoc |
-|6 | Thu Ho Tran Anh |
-
 ## About Data
 The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. Each year, the survey collects responses from over 400,000 Americans on health-related risk behaviors, chronic health conditions, and the use of preventative services. It has been conducted every year since 1984. For this project, a csv of the dataset available on Kaggle for the year 2015 was used. This original dataset contains responses from 441,455 individuals and has 330 features. These features are either questions directly asked of participants, or calculated variables based on individual participant responses.
 
@@ -102,11 +91,22 @@ gen_hlth + high_bp + bmi + diff_walk + high_chol + heart_diseaseor_attack + phys
 
 | Model                         | AUC  | ROC Curve     |
 |---------------------------------|----------|----------|
-| Logistic Regression | 0.8113 | <img width="693" alt="Screen Shot 2025-03-07 at 15 48 52" src="https://github.com/user-attachments/assets/ae8dbbf4-74da-4024-afa7-7c486d133ccd" /> |
+| **Logistic Regression** | **0.8113** | <img width="693" alt="Screen Shot 2025-03-07 at 15 48 52" src="https://github.com/user-attachments/assets/ae8dbbf4-74da-4024-afa7-7c486d133ccd" /> |
 | Random Forest       | 0.7969 | <img width="694" alt="Screen Shot 2025-03-07 at 15 49 05" src="https://github.com/user-attachments/assets/6847d68d-57f4-45cc-89c2-d1dd7fca287b" /> |
 | Naive Bayes         | 0.7947 | <img width="688" alt="Screen Shot 2025-03-07 at 15 49 51" src="https://github.com/user-attachments/assets/c38eb1f3-7c6b-4aae-8e86-6ed2dcb1c415" /> |
 
 The Logistic Regression model has an AUC index of 0.81, which shows that the model's ability to distinguish between classes is quite good and reliable.
+
+Contributors for this group project:
+
+| | |
+|---|-----|
+|1 | Ba Truong Binh|
+|2 | Giao Chiem Huynh |
+|3 | Han Nguyen Ngoc Bao |
+|4 | Xuan-Huong Nguyen |
+|5 | Linh Phan Thi Ngoc |
+|6 | Thu Ho Tran Anh |
 
 _(You can find code in the .html file which exported from R markdown)_
 
